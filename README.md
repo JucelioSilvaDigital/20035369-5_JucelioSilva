@@ -1,18 +1,27 @@
 # 20035369-5_JucelioSilva
 Referente a atividade Mapa da Faculdade UNICESUMAR
+<br>
 Nome do desenvolvedor: Jucélio Silva Santos
 
 **Contato:**
+<br>
 https://www.instagram.com/juceliosilvadigital/
+<br>
 https://www.youtube.com/channel/UC8xmlcw97gzGtLgngQqaebA
+<br>
 https://www.facebook.com/JucelioSilvaDigital
+<br>
 Telefone Comercial: 66-92000-1259
-
+<br>
+<br>
 Informo que este Site/Sistema é apenas para concluir atividade escolar e tem muito a ser melhorado.
-
+<br>
+<br>
 Abaixo, disponibilizo o que foi pedido na atividade.
-
-Cordilamente
+<br>
+<br>
+Cordilmente
+<br>
 Jucelio Silva
 
 ***Informações da Atividade***
