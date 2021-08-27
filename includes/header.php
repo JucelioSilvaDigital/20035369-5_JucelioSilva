@@ -1,0 +1,1 @@
+<div class="bg"><img class="largura largura2" src="/images/imgTopo.png"</div>
